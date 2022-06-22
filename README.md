@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quentinsamuel" alt="quentinsamuel" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@quentin_sml" target="blank"><img src="https://img.shields.io/twitter/follow/@quentin_sml?logo=twitter&style=for-the-badge" alt="@quentin_sml" /></a> </p>
+<p align="left"> <a href="https://twitter.com/quentin_sml" target="blank"><img src="https://img.shields.io/twitter/follow/@quentin_sml?logo=twitter&style=for-the-badge" alt="@quentin_sml" /></a> </p>
 
 - 🔭 I’m currently working on [Hero-Corporation](https://theodep.github.io/Hero-Corporation/)
 
